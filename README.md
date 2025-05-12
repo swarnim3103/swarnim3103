@@ -13,4 +13,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnim3103&show_icons=true&locale=en&layout=compact" alt="swarnim3103" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnim3103&" alt="swarnim3103" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnim3103" alt="swarnim3103" /></p>
