@@ -20,14 +20,14 @@
 <br>
 
 
-<p align="center">
+<p>
   <a href="https://github.com/swarnim3103">
-    <img align="center"
+    <img
          height="150em"
          src="https://github-readme-stats.vercel.app/api?username=swarnim3103&theme=dracula&show_icons=true&hide_border=false&count_private=true"
     /><br><br>
   <a href="https://github.com/swarnim3103">
-    <img align="center"
+    <img
          height="150em"
          src="https://github-readme-streak-stats.herokuapp.com/?user=swarnim3103&theme=dracula&hide_border=false"
     />
