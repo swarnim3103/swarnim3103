@@ -1,6 +1,6 @@
 <h1 align="center">'Sup</h1>
 
-![cool](banner.png)
+![Swarnim this side](banner.png)
 **<h3 align="center">`I'm an engineering in making to do something innovative and creative`</h3>**
 
 - 🌱 i’m currently learning **Haskell with the intention of making something with it**
@@ -16,3 +16,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnim3103&show_icons=true&locale=en&layout=compact" alt="swarnim3103" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnim3103" alt="swarnim3103" /></p>
+
+#### <p>have a nice day :)</p><img src="souichi.png" alt="cutie" width="150">
+
+
