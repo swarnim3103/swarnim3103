@@ -1,7 +1,7 @@
 <h1 align="center">'Sup</h1>
 
 ![Swarnim this side](banner.png)
-**<h3 align="center">`I'm an engineering in making to do something innovative and creative`</h3>**
+**<h3 align="center">`I'm an engineer in making to do something innovative and creative`</h3>**
 
 - 🔭i’m currently learning **Haskell with the intention of making something with it**
   
