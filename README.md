@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Swarnim Arya</h1>
-<h3 align="center">I'm a curious engineering student from India</h3>
+<h1 align="center">'Sup</h1>
 
-- 🌱 I’m currently learning **Haskell intertwined system programming**
+![cool](banner.png)
+**<h3 align="center">`I'm an engineering in making to do something innovative and creative`</h3>**
 
-- 📫 How to reach me **swarnim3103@gmail.com**
+- 🌱 i’m currently learning **Haskell with the intention of making something with it**
+
+- 📫 feel free to reach me at my mail - **swarnim3103@gmail.com**
 
 <p align="left">
 </p>
