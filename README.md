@@ -33,6 +33,6 @@
     />
 </p>
 
-#### <p align="center">Have a nice and peaceful day ahead ✨</p> <img src="souichi.png" alt="cutie" width="150" align="right">
+#### Have a nice and peaceful day ahead ✨ <img src="souichi.png" alt="cutie" width="100" align="right">
 
 
