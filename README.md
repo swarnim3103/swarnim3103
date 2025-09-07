@@ -21,7 +21,7 @@
 <br>
 
 
-<p>
+<p align="center">
   <a href="https://github.com/swarnim3103">
     <img
          height="150em"
