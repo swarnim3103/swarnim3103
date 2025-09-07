@@ -19,12 +19,19 @@
 
 <br>
 
-![swarnim3103's Stats](https://github-readme-stats.vercel.app/api?username=swarnim3103&theme=dracula&show_icons=true&hide_border=false&count_private=true) </p>
 
-<br>
-
-![swarnim3103's Streak](https://github-readme-streak-stats.herokuapp.com/?user=swarnim3103&theme=dracula&hide_border=false)
-
+<p align="center">
+  <a href="https://github.com/swarnim3103">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api?username=swarnim3103&theme=dracula&show_icons=true&hide_border=false&count_private=true"
+    /><br><br>
+  <a href="https://github.com/swarnim3103">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=swarnim3103&theme=dracula&hide_border=false"
+    />
+</p>
 
 #### <p>Have a nice and peaceful day ahead ✨</p><img src="souichi.png" alt="cutie" width="150">
 
